@@ -68,9 +68,6 @@ Apa kemungkinan penyebabnya dan bagaimana cara memperbaikinya?
 ## 📢 Kontribusi
 Kami sangat terbuka untuk kontribusi! Jika Anda memiliki prompt baru yang berguna untuk pengembangan Laravel, silakan buat **pull request** atau diskusikan di **Issues**.
 
-## 🔗 Lisensi
-Repositori ini dirilis di bawah lisensi **MIT License** – bebas digunakan dan dikembangkan lebih lanjut.
-
 ---
 Happy Coding! 🚀
 
